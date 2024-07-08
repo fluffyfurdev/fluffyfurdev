@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html>
   <head>
     <title>FluffyFurDev</title>
@@ -31,3 +31,4 @@
   console.log("this is not real website code")
   console.log("its formatted in html")
 </script>
+-->
